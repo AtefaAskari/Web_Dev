@@ -1,0 +1,212 @@
+.header_1{
+    position: fixed;
+    left: 140px;
+    top: 2px;
+    color: rgb(74, 74, 74);
+    cursor: pointer;
+}
+
+.header_2{
+    position: fixed;
+    left: 270px;
+    top: 2px;
+    color: rgb(74, 74, 74);
+    cursor: pointer;
+}
+
+.header_3{
+    position: fixed;
+    left: 350px;
+    top: 2px;
+    color: rgb(74, 74, 74);
+    cursor: pointer;
+}
+
+.header_4{
+    position: fixed;
+    left: 460px;
+    top: 2px;
+    color:rgb(74, 74, 74);
+    cursor: pointer;
+}
+
+.header_5{
+    position: fixed;
+    right: 440px;
+    top: 1px;
+    color: rgb(74, 74, 74);
+    cursor: pointer;
+}
+
+.header_6{
+    position: fixed;
+    right: 320px;
+    top: 18px;
+    width: 60px;
+    border: 1.5px solid rgb(74, 74, 74);
+    opacity: 0.5;
+    border: none;
+
+
+    
+}
+
+.header_7{
+    position: fixed;
+    right: 210px;
+    top: 2px;
+    color: rgb(74, 74, 74);
+    cursor: pointer;
+}
+
+.header_8{
+    position: fixed;
+    right: 60px;
+    top: 2px;
+    color: rgb(74, 74, 74);
+    cursor: pointer;
+
+}
+
+.search{
+    position: fixed;
+    width: 17px;
+    height: 17px;
+    right: 303px;
+    top: 18px;
+    
+}
+
+.basket{
+    position: fixed;
+    width: 20px;
+    height: 20px;
+    right: 185px;
+    top: 16px;
+    cursor: pointer;
+
+}
+
+.profile{
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    right: 15px;
+    top: 8px;
+    cursor: pointer;
+
+}
+
+
+
+
+
+.form_1{
+    background-color: rgb(221, 220, 220);
+    height: 100%;
+    height: 500px;
+    overflow: hidden;
+    
+}
+
+#Microsoft_logo{
+    width: 125px;
+    height: 45px;
+    position: relative;
+    top: -6px;
+}
+
+
+
+
+
+
+
+.block_1 {
+    position: relative;
+    left: 150px;
+    top: 120px;
+    
+
+}
+
+.button_1{
+    position: relative;
+    left: 150px;
+    top: 124px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    width: 170px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 16px;
+    
+}
+
+
+
+
+
+
+.onenote{
+    position:absolute;
+    bottom: 10px;
+    
+}
+
+
+.edge{
+    position: absolute;
+    left: 395px;  
+    width: 23%;
+    height: 202px;
+    bottom: -40px;
+
+}
+
+.one_drive{
+    position: absolute;
+    left: 780px;  
+    width: 23%;
+    height: 202px;
+    bottom:-40px;
+}
+
+.Bing{
+    position: absolute;
+    right: 7px;  
+    width: 23%;
+    height: 203px;
+    bottom:-40px;
+}
+
+.one{
+    position: absolute;
+    left: 10px;
+    bottom: -170px;
+
+}
+
+.two{
+    position: absolute;
+    left: 393px;
+    bottom: -195px;
+
+}
+
+.three {
+    position: absolute;
+    left: 780px;
+    bottom: -170px;
+}
+
+.four {
+    position: absolute;
+    left: 1165px;
+    bottom: -196px;
+
+}
