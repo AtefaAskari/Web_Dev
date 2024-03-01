@@ -1,0 +1,7 @@
+<!-- product-item.component.html -->
+<div *ngFor="let product of products">
+    <p>{{ product.name }} - Likes: {{ product.likes }}</p>
+    <button (click)="likeProduct(product)">Like</button>
+    <button (click)="removeProduct(product)">Remove</button>
+  </div>
+  
