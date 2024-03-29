@@ -1,0 +1,30 @@
+.click_1 {
+    background-color:chocolate; 
+    border: none;
+    border-radius: 2px;
+    height: 25px;
+    position: absolute;
+    display: flex;
+
+}
+
+.click_2 {
+    background-color:chocolate; 
+    border: none;
+    border-radius: 2px;
+    height: 25px;
+    position: absolute;
+    display: flex;
+    left: 60px;
+}
+
+
+.click_3 {
+    background-color:chocolate; 
+    border: none;
+    border-radius: 2px;
+    height: 25px;
+    position: relative;
+    display: flex;
+    left: 101px;
+}

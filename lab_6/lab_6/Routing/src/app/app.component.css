@@ -1,0 +1,92 @@
+.items {
+    position: relative;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+
+.link_1 {
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 25px;
+}
+
+.link_1:hover{
+    transform: scale(1.5); /* Adjust the scale factor for the desired zoom level */
+    transition: transform 0.3s ease; /* Add a smooth transition effect */
+}
+
+.link_2 {
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    left: 150px;
+    top:25px;
+}
+
+.link_2:hover{
+    transform: scale(1.5); /* Adjust the scale factor for the desired zoom level */
+    transition: transform 0.3s ease; /* Add a smooth transition effect */
+}
+
+.link_3 {
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    left: 250px;
+    top: 25px; 
+}
+
+.link_3:hover{
+    transform: scale(1.5); /* Adjust the scale factor for the desired zoom level */
+    transition: transform 0.3s ease; /* Add a smooth transition effect */
+}
+
+
+.link_4 {
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    left: 350px;
+    top: 25px; 
+
+
+}
+.link_4:hover{
+    transform: scale(1.5); /* Adjust the scale factor for the desired zoom level */
+    transition: transform 0.3s ease; /* Add a smooth transition effect */
+}
+
+.link_5 {
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+    position: relative;
+    left: 430px;  
+    top: 25px; 
+}
+.link_5:hover {
+    transform: scale(1.5); /* Adjust the scale factor for the desired zoom level */
+    transition: transform 0.3s ease; /* Add a smooth transition effect */
+}
+
+
+header {
+    background-color:chocolate; 
+    height: 80px;
+}

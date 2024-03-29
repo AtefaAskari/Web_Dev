@@ -1,0 +1,28 @@
+.click {
+    background-color:chocolate; 
+    border: none;
+    border-radius: 2px;
+    height: 25px;
+    position: absolute;
+    display: flex;
+    left: 101px;
+}
+
+
+
+.click_0 {
+    background-color:chocolate; 
+    border: none;
+    border-radius: 2px;
+    height: 25px;
+    position: absolute;
+    display: flex;
+    left: 10px;
+}
+
+#input_1 {
+    height: 30px;
+    width: 300px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,27 @@
+<!-- <h2>Album Details</h2>
+<div *ngIf="album">
+  <p>Album ID: {{ album.id }}</p>
+  <p>Title: 
+    <input type="text" [(ngModel)]="album.title" />
+</p>
+  <p>User ID: {{ album.userId }}</p>
+  <button (click)="saveChanges()">Save</button>
+  <button (click)="goback()" >Return Back</button>
+  <a [routerLink]="['/photos', album.id]">photos</a>
+</div>
+ -->
+
+
+ <h2>Album Details</h2>
+<div *ngIf="album">
+  <p>Album ID: {{ album.id }}</p>
+  <p>Title: 
+    <input id="input_1" type="text" [(ngModel)]="album.title" />
+  </p>
+  <p>User ID: {{ album.userId }}</p>
+  <button class="click" (click)="saveChanges()">Save</button>
+  <button class="click_0" (click)="goBack()">Return Back</button>
+  <!-- <a [routerLink]="['/photos', album.id]">Photos</a> -->
+  
+
+</div>
